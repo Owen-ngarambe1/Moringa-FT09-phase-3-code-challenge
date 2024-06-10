@@ -152,6 +152,9 @@ Write the following methods in the models(Article, Author, magazine) provided in
   - Write a contributing_authors() in the Magazine model that returns a list of authors who have written more than 2 articles for the magazine
   - Authors must be of type `Author`
   - Returns `None` if the magazine has no authors with more than 2 publications
+  ##### video link
+  https://calip.io/mJvADxk9#ZBV5FKpa
+  
 
 
 
